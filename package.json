@@ -1,0 +1,25 @@
+{
+  "name": "clicks-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LTL31223/clicks-analytics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LTL31223/clicks-analytics/issues"
+  },
+  "homepage": "https://github.com/LTL31223/clicks-analytics#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "kafkajs": "^2.2.4",
+    "socket.io": "^4.6.1"
+  }
+}
